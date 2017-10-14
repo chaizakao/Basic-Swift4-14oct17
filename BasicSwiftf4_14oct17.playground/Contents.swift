@@ -11,7 +11,21 @@ var numberDouble = 12.345
 var statusBoolean = true
 nameString = "Chaiwat"
 numberInt = 222
-print(nameString,numberInt)
+
+
+//การประกาศตัวแปรที่ไม่สามารถแก้ไขได้
+let surnameString = "Prachachit"
+
+//การกำหนด datatype
+var studentString : String = "nobita"
+var numInt : Int = 333
+
+
+//Display on terminal
+
+print("Display on terminal")
+
+
 
 
 

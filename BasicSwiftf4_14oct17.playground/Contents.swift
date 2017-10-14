@@ -2,4 +2,18 @@
 
 import UIKit
 
-var str = "Hello, Chaiwat Prachachit"
+//การประกาศตัวแปร และ ค่าคงที่ / Variable and Constant
+
+//การประกาศตัวแปรแบบแก้ไขค่าได้
+var nameString = "Doraemon"
+var numberInt = 123
+var numberDouble = 12.345
+var statusBoolean = true
+nameString = "Chaiwat"
+numberInt = 222
+print(nameString,numberInt)
+
+
+
+
+
